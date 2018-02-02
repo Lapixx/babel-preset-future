@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-future",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Babel preset enabling all new and experimental ES features",
   "main": "index.js",
   "repository": "git@github.com:Lapixx/babel-preset-future.git",
