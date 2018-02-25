@@ -1,5 +1,5 @@
 # babel-preset-future
-Babel preset including `es2015`, `es2016`, `es2017` and `stage-0` so you can enjoy JavaScript with all of its new and experimental features.
+Babel preset including `es2015`, `es2016`, `es2017` (under `env`) and `stage-0` so you can enjoy JavaScript with all of its new and experimental features.
 
 ## Install
 
