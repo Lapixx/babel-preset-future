@@ -1,6 +1,8 @@
-module.exports = {
-  presets: [
-    require('babel-preset-env'),
-    require('babel-preset-stage-0')
-  ]
+module.exports = function (api, opts) {
+  return {
+    presets: [
+      [require('babel-preset-env'), opts],
+      require('babel-preset-stage-0')
+    ]
+  }
 };
